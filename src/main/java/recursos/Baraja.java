@@ -22,7 +22,6 @@ public class Baraja {
             }
         }
     }
-
   
     public void barajar() {
         //baraja el mazo, es decir, la cartas sin dar
@@ -35,9 +34,6 @@ public class Baraja {
         }
 
     }
-
-
-   
 
     public Carta[] darCartas(int numCartasDar) {
         //coge cartas del mazo para dar 
